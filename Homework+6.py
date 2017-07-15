@@ -6,7 +6,7 @@
 import quandl
 import matplotlib.pyplot as plt
 
-
+ 
 # In[12]:
 
 #1) Use Quandl API to get and plot (on the same graph) the Terms of Trade for Armenia and Luxembourg from the World Bank database.
